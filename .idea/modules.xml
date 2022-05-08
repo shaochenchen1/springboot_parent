@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_spring_initializr/01_spring_initializr.iml" filepath="$PROJECT_DIR$/01_spring_initializr/01_spring_initializr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_configuration_file/02_configuration_file.iml" filepath="$PROJECT_DIR$/02_configuration_file/02_configuration_file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_extern_configuration/03_extern_configuration.iml" filepath="$PROJECT_DIR$/03_extern_configuration/03_extern_configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_configutaion_inject/04_configutaion_inject.iml" filepath="$PROJECT_DIR$/04_configutaion_inject/04_configutaion_inject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_springboot_logging/05_springboot_logging.iml" filepath="$PROJECT_DIR$/05_springboot_logging/05_springboot_logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_springboot_logging/06_springboot_logging.iml" filepath="$PROJECT_DIR$/06_springboot_logging/06_springboot_logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_springboot_web/07_springboot_web.iml" filepath="$PROJECT_DIR$/07_springboot_web/07_springboot_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_springboot_web_rest/08_springboot_web_rest.iml" filepath="$PROJECT_DIR$/08_springboot_web_rest/08_springboot_web_rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_springboot_servlet/09_springboot_servlet.iml" filepath="$PROJECT_DIR$/09_springboot_servlet/09_springboot_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_springboot_freemarker/10_springboot_freemarker.iml" filepath="$PROJECT_DIR$/10_springboot_freemarker/10_springboot_freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_springboot_mybatis/11_springboot_mybatis.iml" filepath="$PROJECT_DIR$/11_springboot_mybatis/11_springboot_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_springboot_starter/12_springboot_starter.iml" filepath="$PROJECT_DIR$/12_springboot_starter/12_springboot_starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent.iml" filepath="$PROJECT_DIR$/springboot_parent.iml" />
+    </modules>
+  </component>
+</project>
